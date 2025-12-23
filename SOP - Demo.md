@@ -1,0 +1,10 @@
+Objective: Configure a fresh OL8 Installation
+
+Step 1:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eleifend tellus id nisi aliquam, non dapibus velit laoreet. Pellentesque tempus orci id laoreet commodo. Vestibulum nibh velit, posuere non nunc non, tempor pellentesque urna. Ut lobortis nisl eu metus vehicula rhoncus. Fusce tellus felis, mattis sagittis luctus ac, egestas a massa. Interdum et malesuada fames ac ante ipsum primis in faucibus. In commodo commodo porttitor. Etiam imperdiet nulla vitae eros gravida, ac dictum eros egestas. Suspendisse at tellus ultrices, tempus erat pharetra, facilisis orci. Duis in rutrum lectus. Maecenas at venenatis nunc, ut pulvinar nunc. In eu hendrerit ipsum. Vestibulum eu dui et ligula porta facilisis vel a lectus. Fusce ac finibus nulla. Sed malesuada metus tincidunt mauris aliquet, vel cursus ipsum blandit.
+
+Step 2:
+Integer venenatis varius lacus, et suscipit ante luctus ut. Sed tempus felis bibendum enim tristique elementum. Aliquam at porta metus. Integer ut dolor vehicula, vehicula nunc at, tincidunt nunc. In dictum fringilla convallis. Quisque vel dui ac lacus placerat mollis. Vestibulum efficitur placerat ultrices.
+
+Step 3:
+Donec faucibus enim ac ex sodales, ut vulputate lorem porta. Cras nec suscipit risus, ut fringilla arcu. Integer eleifend neque ut purus pulvinar, non cursus urna tempor. Nulla non fringilla dui. Nam cursus, nisi eu placerat finibus, purus turpis cursus velit, sit amet pharetra turpis nulla ac neque. Curabitur lorem nisl, interdum sed nibh vitae, sodales blandit orci. Morbi vitae magna in justo tempus consectetur. Donec congue ante eros, at dictum mauris vehicula in. Fusce cursus, purus quis fermentum efficitur, quam justo aliquam eros, eget gravida nunc eros sit amet magna. Aenean vitae nibh semper, aliquet nisl vel, feugiat metus. Aliquam varius aliquam sem, et facilisis risus tristique quis. Quisque in lobortis tellus. Nulla at diam eu risus maximus malesuada quis et ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
